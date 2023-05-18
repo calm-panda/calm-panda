@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ankit20027)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ankit20027&repo=willHero)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ankit20027)
 
 <!--
 **ankit20027/ankit20027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
